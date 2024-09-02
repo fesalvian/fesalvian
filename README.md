@@ -1,4 +1,6 @@
-Olá, sou Felipe Salviano, entusiasta de tecnologia e Engenheiro de Software
+Olá, sou Felipe Salviano, entusiasta de tecnologia e Estudante de Engenharia de Software
+
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian&hide=contribs,issues&show_icons=true&theme=codeSTACKr)](https://github.com/fesalvian/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
