@@ -1,6 +1,4 @@
-<h2>Olá, sou Felipe Salviano, entusiasta de tecnologia e Estudante de Engenharia de Software</h2>
-
-<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-desenvolvedor-nolan-16.png">
+<h2>Olá, sou Felipe Salviano, entusiasta de tecnologia e Estudante de Engenharia de Software👨‍💻</h2>
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian&hide=contribs,issues&show_icons=true&theme=codeSTACKr)](https://github.com/fesalvian/github-readme-stats)
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fesalvian&theme=blue-green)
@@ -22,4 +20,8 @@
   <a href = "mailto:felipesalviano00@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-salviano-a9821723b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+</div><Br>
+
+<h1>Fã numero um de Berserk a propósito</h1>
+
+![Goku correndo](https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif)
