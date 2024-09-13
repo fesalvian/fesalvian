@@ -26,4 +26,4 @@
 
 ![Goku correndo](https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif)
 
-![Goku correndo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdpdWY1ZTFpYmc2a283NjV6bjgxd2JlYXJwZnNhczV2ZjJjdDI2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.webp)
+![Goku correndo](https://giphy.com/clips/pixel-green-8bit-iqU07uixfQCjzr9aEd)
