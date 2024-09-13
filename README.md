@@ -24,6 +24,4 @@
 
 <h1>Fã numero um de Berserk a propósito</h1>
 
-![Goku correndo](https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif)
-
-![Goku correndo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXplM2M1MHp1OGZ1OHlpaHJkMjdyM3J5eG1mdm4zOWZhNWJiaDN2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp)
+![Goku correndo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ5ODk2eGZwOGJldDU3OW94N3d6a3FuOTFpN2tueHpueGRzZmNveCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kjETcOXKdbYLS/giphy.webp)
