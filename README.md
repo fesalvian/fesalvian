@@ -23,5 +23,6 @@
 </div><Br>
 
 <h1>Fã numero um de Berserk a propósito</h1>
+<iframe src="https://giphy.com/embed/l3978y5HqiEtqupiM" width="480" height="422" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM"></a></p>
 
 ![Goku correndo](https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif)
