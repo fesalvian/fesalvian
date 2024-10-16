@@ -19,7 +19,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=fesalvian&theme=radical&hide_border=false&include_all_commits=true"
+        src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian)](https://github.com/fesalvian/github-readme-stats)
         alt="Github Stats"
       />
     </td>
@@ -41,15 +41,13 @@
   </tr>
 </table>
 
-![Divisor](https://github.com/fesalvian/fesalvian/raw/main/src/divider.png)
-
 
 <h2>Olá, sou Felipe Salviano, entusiasta de tecnologia e Estudante de Engenharia de Software👨‍💻</h2>
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian&hide=contribs,issues&show_icons=true&theme=codeSTACKr)](https://github.com/fesalvian/github-readme-stats)
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fesalvian&theme=blue-green)
 
-<h1>Tecnologias</h1>
+<h1>Technologies</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -61,11 +59,8 @@
   <img align="center" alt="Felipe-MongoDb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
 </div><br>
 
- ## 🖥 Operating systems I use:
 
- [![Systems](https://skillicons.dev/icons?i=windows,macos)](https://skillicons.dev)
-
-<h1>Conecte-se a mim!</h1>
+<h1>Conect to me!</h1>
 <div> 
   <a href="https://instagram.com/fesalvian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipesalviano00@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
