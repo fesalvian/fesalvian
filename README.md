@@ -1,3 +1,49 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A02DF6&height=120&section=header"/>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="320px" align="right">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A02DF6&background=3E20FF00&center=&vCenter=&random=&width=435&lines=Hello+guys!+Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+- 💻 IT support and Software developer!
+- 🌱 I’m currently learning: Backend and databases
+- 🎓 Academic formations: Software Engineer
+- 📧 My contact email: felipesalviano00@hotmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/felipe-salviano-a9821723b/?locale=en_US
+
+<br>
+
+## ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=fesalvian&theme=radical&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesalvian&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=fesalvian&theme=radical&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+![Divisor](https://github.com/fesalvian/fesalvian/raw/main/src/divider.png)
+
+
 <h2>Olá, sou Felipe Salviano, entusiasta de tecnologia e Estudante de Engenharia de Software👨‍💻</h2>
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian&hide=contribs,issues&show_icons=true&theme=codeSTACKr)](https://github.com/fesalvian/github-readme-stats)
