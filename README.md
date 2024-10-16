@@ -19,7 +19,7 @@
     <td>
       <img
         align="left"
-        src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian)](https://github.com/fesalvian/github-readme-stats)
+        src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian)](https://github.com/fesalvian/github-readme-stats)"
         alt="Github Stats"
       />
     </td>
