@@ -60,6 +60,11 @@
   <img align="center" alt="Felipe-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Felipe-MongoDb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
 </div><br>
+
+ ## 🖥 Operating systems I use:
+
+ [![Systems](https://skillicons.dev/icons?i=windows,mac)](https://skillicons.dev)
+
 <h1>Conecte-se a mim!</h1>
 <div> 
   <a href="https://instagram.com/fesalvian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
