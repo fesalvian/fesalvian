@@ -63,7 +63,7 @@
 
  ## 🖥 Operating systems I use:
 
- [![Systems](https://skillicons.dev/icons?i=windows,mac)](https://skillicons.dev)
+ [![Systems](https://skillicons.dev/icons?i=windows,macos)](https://skillicons.dev)
 
 <h1>Conecte-se a mim!</h1>
 <div> 
