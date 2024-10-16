@@ -26,7 +26,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesalvian&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian&hide=contribs,issues&show_icons=true&theme=codeSTACKr)](https://github.com/fesalvian/github-readme-stats)"
         alt="Github Stats"
       />
     </td>
