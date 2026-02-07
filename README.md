@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76233&width=505&lines=Hello%2C+now+i'm+probably+studying+code%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 - 💻 IT support and Software developer!
-- 🪐 I’m currently learning: Backend and databases
-- 🎓 Academic background: Mechatronics Technician(2020) & Software Engineer(2026)
+- 🪐 I’m currently learning: Testing with jest and AI fundamentals
+- 🎓 Academic background: Mechatronics Technician(2020) at IFPR & Software Engineer(2026) at Unicesumar
 - 📧 My contact email: felipesalviano00@hotmail.com
 - 📫 How to reach me: https://www.linkedin.com/in/felipe-salviano-a9821723b/?locale=en_US
 
