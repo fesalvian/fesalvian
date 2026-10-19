@@ -1,0 +1,40 @@
+name: GitHub Profile | 3D Contributions
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 08:17 UTC = 05:17 Brasilia time (UTC-3). GitHub may delay scheduled runs.
+    - cron: '17 8 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d-contributions
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+
+      - name: Generate contribution calendar SVGs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Publish generated calendar
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh 3D contribution calendar"
+            git push
+          else
+            echo "3D calendar already up to date"
+          fi

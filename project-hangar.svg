@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" role="img" aria-labelledby="title desc"><title id="title">Project Hangar — six software systems</title><desc id="desc">Futuristic schematic Hangar control panel with OTTO, Bovinix, PartMode, CLIPEX, Mathra and MARIA bays</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#04101d"/><stop offset="1" stop-color="#071f2f"/></linearGradient><pattern id="g" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" stroke="#12a4d9" opacity=".09" fill="none"/></pattern><style>.light{animation:pulse 2.2s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.light{animation:none}}</style></defs>
+<rect width="1200" height="264" fill="url(#bg)" rx="10" stroke="#1c7694" stroke-width="2"/><rect width="1200" height="264" fill="url(#g)"/>
+<path d="M32 52H1168" stroke="#255d77"/><text x="35" y="36" font-family="Consolas,monospace" fill="#64e4fd" font-size="17" letter-spacing="2">FS / PROJECT HANGAR</text><text x="1164" y="36" font-family="Consolas,monospace" text-anchor="end" fill="#56859a" font-size="13">6 ACTIVE CONCEPTS • 2 PUBLIC REPOS</text>
+
+<g transform="translate(37 69)">
+<rect width="354" height="77" rx="5" fill="#0a293d" stroke="#266e88" stroke-width="1.5"/>
+<path d="M0 17V0H20M335 0H354V18M0 59V77H20M335 77H354V59" stroke="#4ad7ef" fill="none" stroke-opacity=".6"/>
+<text x="16" y="27" fill="#599db4" font-family="Consolas,monospace" font-size="14">BAY_01</text>
+<text x="16" y="52" fill="#defaff" font-family="Arial,sans-serif" font-weight="bold" font-size="23">OTTO</text>
+<text x="338" y="33" text-anchor="end" fill="#72aec2" font-family="Consolas,monospace" font-size="11">AI ASSISTANT</text>
+<circle class="light" cx="325" cy="57" r="4" fill="#3bd2ff"/>
+<text x="315" y="61" text-anchor="end" fill="#5c98ae" font-family="Consolas,monospace" font-size="10">IN PROGRESS</text>
+</g>
+<g transform="translate(422 69)">
+<rect width="354" height="77" rx="5" fill="#0a293d" stroke="#266e88" stroke-width="1.5"/>
+<path d="M0 17V0H20M335 0H354V18M0 59V77H20M335 77H354V59" stroke="#4ad7ef" fill="none" stroke-opacity=".6"/>
+<text x="16" y="27" fill="#599db4" font-family="Consolas,monospace" font-size="14">BAY_02</text>
+<text x="16" y="52" fill="#defaff" font-family="Arial,sans-serif" font-weight="bold" font-size="23">BOVINIX</text>
+<text x="338" y="33" text-anchor="end" fill="#72aec2" font-family="Consolas,monospace" font-size="11">MOBILE + API</text>
+<circle class="light" cx="325" cy="57" r="4" fill="#3bd2ff"/>
+<text x="315" y="61" text-anchor="end" fill="#5c98ae" font-family="Consolas,monospace" font-size="10">IN PROGRESS</text>
+</g>
+<g transform="translate(807 69)">
+<rect width="354" height="77" rx="5" fill="#0a293d" stroke="#266e88" stroke-width="1.5"/>
+<path d="M0 17V0H20M335 0H354V18M0 59V77H20M335 77H354V59" stroke="#4ad7ef" fill="none" stroke-opacity=".6"/>
+<text x="16" y="27" fill="#599db4" font-family="Consolas,monospace" font-size="14">BAY_03</text>
+<text x="16" y="52" fill="#defaff" font-family="Arial,sans-serif" font-weight="bold" font-size="23">PARTMODE</text>
+<text x="338" y="33" text-anchor="end" fill="#72aec2" font-family="Consolas,monospace" font-size="11">PARAMETRIC CAD</text>
+<circle class="light" cx="325" cy="57" r="4" fill="#42f3bb"/>
+<text x="315" y="61" text-anchor="end" fill="#5c98ae" font-family="Consolas,monospace" font-size="10">PUBLIC</text>
+</g>
+<g transform="translate(37 158)">
+<rect width="354" height="77" rx="5" fill="#0a293d" stroke="#266e88" stroke-width="1.5"/>
+<path d="M0 17V0H20M335 0H354V18M0 59V77H20M335 77H354V59" stroke="#4ad7ef" fill="none" stroke-opacity=".6"/>
+<text x="16" y="27" fill="#599db4" font-family="Consolas,monospace" font-size="14">BAY_04</text>
+<text x="16" y="52" fill="#defaff" font-family="Arial,sans-serif" font-weight="bold" font-size="23">CLIPEX</text>
+<text x="338" y="33" text-anchor="end" fill="#72aec2" font-family="Consolas,monospace" font-size="11">AI VIDEO TOOLS</text>
+<circle class="light" cx="325" cy="57" r="4" fill="#42f3bb"/>
+<text x="315" y="61" text-anchor="end" fill="#5c98ae" font-family="Consolas,monospace" font-size="10">PUBLIC</text>
+</g>
+<g transform="translate(422 158)">
+<rect width="354" height="77" rx="5" fill="#0a293d" stroke="#266e88" stroke-width="1.5"/>
+<path d="M0 17V0H20M335 0H354V18M0 59V77H20M335 77H354V59" stroke="#4ad7ef" fill="none" stroke-opacity=".6"/>
+<text x="16" y="27" fill="#599db4" font-family="Consolas,monospace" font-size="14">BAY_05</text>
+<text x="16" y="52" fill="#defaff" font-family="Arial,sans-serif" font-weight="bold" font-size="23">MATHRA</text>
+<text x="338" y="33" text-anchor="end" fill="#72aec2" font-family="Consolas,monospace" font-size="11">MATH CANVAS</text>
+<circle class="light" cx="325" cy="57" r="4" fill="#3bd2ff"/>
+<text x="315" y="61" text-anchor="end" fill="#5c98ae" font-family="Consolas,monospace" font-size="10">IN PROGRESS</text>
+</g>
+<g transform="translate(807 158)">
+<rect width="354" height="77" rx="5" fill="#0a293d" stroke="#266e88" stroke-width="1.5"/>
+<path d="M0 17V0H20M335 0H354V18M0 59V77H20M335 77H354V59" stroke="#4ad7ef" fill="none" stroke-opacity=".6"/>
+<text x="16" y="27" fill="#599db4" font-family="Consolas,monospace" font-size="14">BAY_06</text>
+<text x="16" y="52" fill="#defaff" font-family="Arial,sans-serif" font-weight="bold" font-size="23">MARIA</text>
+<text x="338" y="33" text-anchor="end" fill="#72aec2" font-family="Consolas,monospace" font-size="11">RAG KNOWLEDGE</text>
+<circle class="light" cx="325" cy="57" r="4" fill="#3bd2ff"/>
+<text x="315" y="61" text-anchor="end" fill="#5c98ae" font-family="Consolas,monospace" font-size="10">IN PROGRESS</text>
+</g>
+</svg>
