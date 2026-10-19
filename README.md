@@ -1,7 +1,7 @@
 <!-- FELIPE SALVIANO // DEVELOPER INTERFACE -->
 <div align="center">
 
-<img src="./assets/hud-banner.svg" width="100%" alt="Felipe Salviano — animated developer HUD" />
+<img src="./hud-banner.svg" width="100%" alt="Felipe Salviano — animated developer HUD" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=%3E+Initializing+developer+interface...;%3E+TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;%3E+Building+intelligent+software+systems;%3E+Robotics+%7C+Arduino+%7C+Raspberry+Pi;%3E+Engineering+ideas+into+reality)](https://git.io/typing-svg)
 
