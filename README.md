@@ -3,7 +3,7 @@
 
 <img src="./hud-banner.svg" width="100%" alt="Felipe Salviano — futuristic animated developer HUD" />
 
-<img src="./assets/boot-terminal.svg" width="100%" alt="Animated FS SYSTEMS boot terminal, developer profile loading" />
+<img src="./boot-terminal.svg" width="100%" alt="Animated FS SYSTEMS boot terminal, developer profile loading" />
 
 <a href="https://www.instagram.com/salviandev/"><img src="https://img.shields.io/badge/INSTAGRAM-@salviandev-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=071827" alt="Follow @salviandev on Instagram" /></a>
 <a href="https://www.linkedin.com/in/felipe-salviano-a9821723b/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-00BDE7?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=071827" alt="Connect on LinkedIn" /></a>
@@ -53,7 +53,7 @@ interface EngineerProfile {
 
 <div align="center">
 
-<img src="./assets/project-hangar.svg" width="100%" alt="Project Hangar dashboard showing OTTO, Bovinix, PartMode, CLIPEX, Mathra and MARIA" />
+<img src="./project-hangar.svg" width="100%" alt="Project Hangar dashboard showing OTTO, Bovinix, PartMode, CLIPEX, Mathra and MARIA" />
 
 </div>
 
@@ -108,7 +108,7 @@ interface EngineerProfile {
 
 <div align="center">
 
-<img src="./assets/hardware-lab.svg" width="100%" alt="Engineering schematic depicting microcontrollers, Raspberry Pi, robotics, PCB design and 3D printing" />
+<img src="./hardware-lab.svg" width="100%" alt="Engineering schematic depicting microcontrollers, Raspberry Pi, robotics, PCB design and 3D printing" />
 
 <img src="https://img.shields.io/badge/Arduino-C%2FC%2B%2B-00C9DF?style=for-the-badge&amp;logo=arduino&amp;logoColor=white&amp;labelColor=071827" alt="Arduino C/C++" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-SBC-00C9DF?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white&amp;labelColor=071827" alt="Raspberry Pi" />
