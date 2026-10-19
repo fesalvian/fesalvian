@@ -1,44 +1,100 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Felipe's%20GitPage&section=header&reversal=false&textBg=false&descAlign=50&fontAlignY=31&fontAlign=50&animation=fadeIn&desc=My%20personal%20projects"/>
+<!-- FELIPE SALVIANO // DEVELOPER INTERFACE -->
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="320px" align="right">
+<img src="./assets/hud-banner.svg" width="100%" alt="Felipe Salviano — animated developer HUD" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76233&width=505&lines=Hello%2C+now+i'm+probably+studying+code%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=%3E+Initializing+developer+interface...;%3E+TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;%3E+Building+intelligent+software+systems;%3E+Engineering+ideas+into+reality)](https://git.io/typing-svg)
 
-- 💻 IT support and Software developer!
-- 🪐 I’m currently learning: Testing with jest and AI fundamentals
-- 🎓 Academic background: Mechatronics Technician(2020) at IFPR & Software Engineer(2026) at Unicesumar
-- 📧 My contact email: felipesalviano00@hotmail.com
-- 📫 How to reach me: https://www.linkedin.com/in/felipe-salviano-a9821723b/?locale=en_US
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&labelColor=071827" alt="system online" />
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%26%20AI-2AB9E4?style=for-the-badge&labelColor=071827" alt="focus" />
+<img src="https://img.shields.io/badge/CODING%20SINCE-2017-00D9FF?style=for-the-badge&labelColor=071827" alt="coding since 2017" />
 
-<br>
+</div>
 
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalvian&hide=contribs,issues&show_icons=true&theme=codeSTACKr)](https://github.com/fesalvian/github-readme-stats) 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr)
+## `> whoami`
 
-<h1>Technologies</h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-MySQL" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
-  <img align="center" alt="Felipe-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Felipe-Prisma" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-  <img  align="center" alt="Felipe-Insomnia" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+I'm **Felipe Salviano**, a full-stack developer and Software Engineering student passionate about building systems that connect **software, artificial intelligence, automation, and hardware**.
 
+I started coding in **2017, at age 15**, driven by curiosity about how technology works. I graduated as a **Mechatronics Technician in 2020** at **IFPR**, and I've been studying **Software Engineering at UniCesumar since 2023** *(degree in progress)*.
 
+Today I focus on engineering practical, scalable applications — from modern web platforms and robust APIs to AI-powered assistants and connected devices.
 
+```ts
+const felipe = {
+  role: "Full-Stack Developer",
+  mainStack: ["TypeScript", "Next.js", "Node.js", "Express", "PostgreSQL", "Python"],
+  interests: ["AI & Agents", "Automation", "Robotics", "Software Architecture"],
+  education: {
+    mechatronics: "IFPR · Technician · 2020",
+    softwareEngineering: "UniCesumar · Since 2023 · In progress",
+  },
+  codingSince: 2017,
+  mission: "Build what doesn't exist yet.",
+} as const;
+```
 
-</div><br>
+## `> technology_stack --primary`
 
+<div align="center">
 
-<h1>Connect with me!</h1>
-<div> 
-  <a href="https://instagram.com/fesalvian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:felipesalviano00@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-salviano-a9821723b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div><Br>
+[![Primary Stack](https://skillicons.dev/icons?i=ts,nextjs,nodejs,express,postgres,python&theme=dark)](https://skillicons.dev)
 
-![Me coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ4cHQ3Mzh4emxtMDgwenJhZ3BuaHo4bTNkb3lyMGRwanphaHAyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOFB74VjN0OqvRmJGK/giphy.webp)
+**Core technologies** — TypeScript · Next.js · Node.js · Express · PostgreSQL · Python
 
+[![Additional Technologies](https://skillicons.dev/icons?i=js,react,tailwind,html,css,prisma,mysql,docker,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+
+**Also working with** — React · Tailwind CSS · Prisma · MySQL · Docker · Git and more
+
+</div>
+
+## `> ai_toolchain --active`
+
+I use AI-assisted workflows to accelerate implementation, prototype interfaces, explore architecture, and improve development productivity — with engineering judgment and code review.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude_Code-AI%20Coding-00BED6?style=for-the-badge&labelColor=0B1928" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-Coding_Agent-00BED6?style=for-the-badge&labelColor=0B1928" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/Claude_Design-UI%2FUX_Prototyping-00BED6?style=for-the-badge&labelColor=0B1928" alt="Claude Design" />
+
+</div>
+
+## `> selected_systems`
+
+| System | Engineering focus |
+| :--- | :--- |
+| **OTTO** | Local/hybrid AI assistant, voice interaction, tools, automation and HUD interfaces |
+| **Bovinix** | Mobile-first livestock management, connected devices, offline workflows and backend APIs |
+| **Mathra / Math Lab** | Infinite canvas and interactive mathematical learning experiences |
+| **MARIA** | Institutional knowledge assistant with retrieval-augmented generation (RAG) |
+
+*Selected ongoing projects and areas of development.*
+
+## `> telemetry --github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fesalvian&show_icons=true&hide_border=true&bg_color=07121F&title_color=00D9FF&text_color=A6D8E7&icon_color=00D9FF" alt="Felipe's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesalvian&layout=compact&hide_border=true&bg_color=07121F&title_color=00D9FF&text_color=A6D8E7" alt="Felipe's top public repository languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fesalvian&bg_color=07121f&color=7bdff2&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
+
+</div>
+
+<sub>Public GitHub metrics are generated by third-party services and may occasionally be unavailable. Language charts reflect repository composition, not skill level.</sub>
+
+## `> establish_connection`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00BDE7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071827)](https://www.linkedin.com/in/felipe-salviano-a9821723b/)
+[![Email](https://img.shields.io/badge/Email-Contact-00BDE7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=071827)](mailto:felipesalviano00@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-00BDE7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=071827)](https://instagram.com/fesalvian)
+
+<br />
+
+**`SYSTEM STATUS: ONLINE`** · **`MODE: CONTINUOUS IMPROVEMENT`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020814,50:006D9D,100:00C7E9&height=105&section=footer" width="100%" alt="Cyan footer wave" />
+
+</div>
