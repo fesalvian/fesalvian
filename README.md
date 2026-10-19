@@ -3,32 +3,36 @@
 
 <img src="./assets/hud-banner.svg" width="100%" alt="Felipe Salviano — animated developer HUD" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=%3E+Initializing+developer+interface...;%3E+TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;%3E+Building+intelligent+software+systems;%3E+Engineering+ideas+into+reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=%3E+Initializing+developer+interface...;%3E+TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;%3E+Building+intelligent+software+systems;%3E+Robotics+%7C+Arduino+%7C+Raspberry+Pi;%3E+Engineering+ideas+into+reality)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&labelColor=071827" alt="system online" />
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%26%20AI-2AB9E4?style=for-the-badge&labelColor=071827" alt="focus" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20HARDWARE-2AB9E4?style=for-the-badge&labelColor=071827" alt="software and hardware" />
 <img src="https://img.shields.io/badge/CODING%20SINCE-2017-00D9FF?style=for-the-badge&labelColor=071827" alt="coding since 2017" />
 
 </div>
 
 ## `> whoami`
 
-I'm **Felipe Salviano**, a full-stack developer and Software Engineering student passionate about building systems that connect **software, artificial intelligence, automation, and hardware**.
+I'm **Felipe Salviano**, a full-stack developer, maker, and Software Engineering student passionate about connecting **software, artificial intelligence, electronics, robotics, and automation**.
 
 I started coding in **2017, at age 15**, driven by curiosity about how technology works. I graduated as a **Mechatronics Technician in 2020** at **IFPR**, and I've been studying **Software Engineering at UniCesumar since 2023** *(degree in progress)*.
 
-Today I focus on engineering practical, scalable applications — from modern web platforms and robust APIs to AI-powered assistants and connected devices.
+I spend my time studying, building software, and bringing personal and hobby projects to life — from scalable web platforms and AI assistants to **Arduino and Raspberry Pi projects, robotics, PCB design, and 3D-printed prototypes**. I'm currently deepening my knowledge of **artificial intelligence and embedded systems**.
 
 ```ts
 const felipe = {
   role: "Full-Stack Developer",
   mainStack: ["TypeScript", "Next.js", "Node.js", "Express", "PostgreSQL", "Python"],
-  interests: ["AI & Agents", "Automation", "Robotics", "Software Architecture"],
+  hardware: ["Arduino", "Raspberry Pi", "Robotics", "PCB design", "3D printing"],
+  embeddedProgramming: "C/C++ (Arduino)",
+  learning: ["Artificial Intelligence", "Embedded Systems"],
+  interests: ["AI Agents", "Automation", "Robotics", "Software Architecture"],
   education: {
     mechatronics: "IFPR · Technician · 2020",
     softwareEngineering: "UniCesumar · Since 2023 · In progress",
   },
   codingSince: 2017,
+  sideProjects: "Personal builds, experiments & hobbies",
   mission: "Build what doesn't exist yet.",
 } as const;
 ```
@@ -43,9 +47,27 @@ const felipe = {
 
 [![Additional Technologies](https://skillicons.dev/icons?i=js,react,tailwind,html,css,prisma,mysql,docker,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
 
-**Also working with** — React · Tailwind CSS · Prisma · MySQL · Docker · Git and more
+**Also working with** — React · Tailwind CSS · Prisma · MySQL · Docker · Git · Arduino C/C++ and more
 
 </div>
+
+## `> hardware_lab --prototyping`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arduino-C%2FC%2B%2B-00C9DF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=071827" alt="Arduino C/C++" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-Projects-00C9DF?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=071827" alt="Raspberry Pi projects" />
+<img src="https://img.shields.io/badge/Robotics-Prototyping-00C9DF?style=for-the-badge&labelColor=071827" alt="Robotics prototyping" />
+<img src="https://img.shields.io/badge/PCB-Design-00C9DF?style=for-the-badge&labelColor=071827" alt="PCB design" />
+<img src="https://img.shields.io/badge/3D_Printing-Fabrication-00C9DF?style=for-the-badge&labelColor=071827" alt="3D printing" />
+
+</div>
+
+Beyond software development, I enjoy designing and experimenting with **electronics and physical systems**. My personal builds and hobby projects involve microcontrollers, single-board computers, robotics, custom circuits and 3D-printed parts.
+
+- **Microcontrollers & computers:** Arduino, Raspberry Pi, and C/C++ programming with the Arduino framework.
+- **Hardware & fabrication:** Robotics, electronic prototyping, PCB design, and 3D printing.
+- **Currently studying:** Artificial intelligence and embedded systems — building expertise through coursework, independent study, and hands-on projects.
 
 ## `> ai_toolchain --active`
 
